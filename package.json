@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Kledenai/curso-vue/issues"
   },
-  "homepage": "https://github.com/Kledenai/curso-vue#readme"
+  "homepage": "https://github.com/Kledenai/curso-vue#readme",
+  "dependencies": {
+    "vue": "^2.6.10"
+  }
 }
